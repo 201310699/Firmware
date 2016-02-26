@@ -140,6 +140,7 @@ set(config_module_list
 	#
 	examples/rover_steering_control
 
+        examples/PX4_SIMPLE_APP
 	#
 	# Demo apps
 	#
